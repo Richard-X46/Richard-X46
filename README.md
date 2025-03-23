@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there 👋  
+I'm a data professional working on data science, machine learning, and data engineering, with a focus on building scalable solutions and automating workflows.
 
-<!--
-**Richard-X46/Richard-X46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Tools  
+- **Programming**: Python (pandas, scikit-learn, PyTorch), SQL  
+- **Frameworks & Tools**: Docker, Airflow, Kubernetes, Tableau, Redshift  
+- **Areas of Expertise**: Time series forecasting, EDA (Exploratory Data Analysis), data pipeline automation  
 
-Here are some ideas to get you started:
+## 📫 Contact  
+- **Email**: [Gmail](mailto:richardpears46@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...ffff
--->
+![Codewars Badge](https://www.codewars.com/users/Richard04/badges/small)  
+
+
+
+<!-- Customize as needed -->
