@@ -3,7 +3,7 @@ I'm a data professional working on data science, machine learning, and data engi
 
 ## 🛠️ Skills & Tools  
 - **Programming**: Python (pandas, scikit-learn, PyTorch), SQL  
-- **Frameworks & Tools**: Docker, Airflow, Kubernetes, Tableau, Redshift  
+- **Frameworks & Tools**: Docker, Airflow, Tableau, Redshift  
 - **Areas of Expertise**: Time series forecasting, EDA (Exploratory Data Analysis), data pipeline automation  
 
 ## 📫 Contact  
