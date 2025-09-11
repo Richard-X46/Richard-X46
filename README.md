@@ -1,16 +1,13 @@
-# Hey there 👋  
-I'm a data professional working on data science, machine learning, and data engineering, with a focus on building scalable solutions and automating workflows.
 
-## 🛠️ Skills & Tools  
-- **Programming**: Python (pandas, scikit-learn, PyTorch), SQL  
-- **Frameworks & Tools**: Docker, Airflow, Tableau, Redshift  
-- **Areas of Expertise**: Time series forecasting, EDA (Exploratory Data Analysis), data pipeline automation  
+### Hi there 👋
 
-## 📫 Contact  
-- **Email**: [Gmail](mailto:richardpears46@gmail.com)  
+I'm Building and deploying data-driven apps in the cloud.
 
-![Codewars Badge](https://www.codewars.com/users/Richard04/badges/small)  
+* 🔭 Working on containerized apps with **AWS**
+* ⚙️ Python, SQL, and cloud-native tools
+* 📫 How to reach me: [Gmail](mailto:richardpears46@gmail.com)
 
+<div id="header" align="left">
+  <img src="https://www.codewars.com/users/Richard04/badges/small" />
+</div>
 
-
-<!-- Customize as needed -->
