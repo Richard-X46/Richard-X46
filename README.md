@@ -13,8 +13,6 @@ I'm Building and deploying data-driven apps in the cloud.
 
 ---
 ### Live Portfolio
-Explore my deployed applications, architecture notes, and source code links on my VPS-hosted portfolio site:
+Explore my deployed applications, architecture notes, and source code links on my sie below:
 
 ➡️ **[richard-x46.me](https://richard-x46.me)**
-
-Feel free to open issues or reach out if you have questions about any project.
