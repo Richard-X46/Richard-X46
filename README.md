@@ -12,4 +12,3 @@ I'm Building and deploying data-driven apps in the cloud.
 </div>
 
 ---
-**[richard-x46.me](https://richard-x46.me)**
