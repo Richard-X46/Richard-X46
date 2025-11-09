@@ -12,7 +12,4 @@ I'm Building and deploying data-driven apps in the cloud.
 </div>
 
 ---
-### Live Portfolio
-Explore my deployed applications, architecture notes, and source code links on my sie below:
-
-➡️ **[richard-x46.me](https://richard-x46.me)**
+**[richard-x46.me](https://richard-x46.me)**
